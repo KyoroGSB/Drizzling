@@ -1,5 +1,5 @@
 # Drizzling
-A horror mobile game
+A room escape mobile game
 
 ![main](https://i.imgur.com/XP0E8OY.png)  
   
